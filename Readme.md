@@ -2,7 +2,7 @@
 
 ### Goal -
 
-Create a ASG in a private subnet with each instance having a nginx container and a load balancer in public subnet which targets the ASG
+Create an ASG in a private subnet with each instance having a nginx container and a load balancer in public subnet which targets the ASG
 
 ### Solution -
 
